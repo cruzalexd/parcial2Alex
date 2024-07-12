@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nombre": "NoteBook 1",
+        "descripcion": "Una buena Notebook para trabajar todos los dias en cualquier lugar y en cualquier momento, gran duracion de la bateria",
+        "precio": 100,
+        "imagen": "img/asus1.webp",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 2,
+        "nombre": "NoteBook 2",
+        "descripcion": "Una buena Notebook para trabajar todos los dias en cualquier lugar y en cualquier momento, gran duracion de la bateria",
+        "precio": 200,
+        "imagen": "img/dell_1.webp",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 3,
+        "nombre": "Tablet Enova",
+        "descripcion": "Una tablet para los mas chicos",
+        "precio": 300,
+        "imagen": "img/enova_1.webp",
+        "categoria": "Tablet"
+    },
+    {
+        "id": 4,
+        "nombre": "Iphone 13",
+        "descripcion": "El mejor celular",
+        "precio": 500,
+        "imagen": "img/MotorolaMotoE13.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 5,
+        "nombre": "Motorola Moto G14",
+        "descripcion": "El mejor celular",
+        "precio": 650,
+        "imagen": "img/MotorolaMotoG14.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 6,
+        "nombre": "Motorola Moto G84",
+        "descripcion": "El mejor celular",
+        "precio": 800,
+        "imagen": "img/MotorolaMotoG84.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 7,
+        "nombre": "Pro 3 - Notebook",
+        "descripcion": "La mejor tablet",
+        "precio": 1000,
+        "imagen": "img/pro3.webp",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 8,
+        "nombre": "Samsung Galaxy A24",
+        "descripcion": "El mejor celular",
+        "precio": 500,
+        "imagen": "img/SamsungA24.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 9,
+        "nombre": "Samsung Galaxy A04",
+        "descripcion": "El mejor celular",
+        "precio": 550,
+        "imagen": "img/SamsungGalaxyA042.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 10,
+        "nombre": "Samsung Galaxy A54",
+        "descripcion": "El mejor celular",
+        "precio": 500,
+        "imagen": "img/SamsungGalaxyA54.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 11,
+        "nombre": "Tablet 1",
+        "descripcion": "La mejor Tablet",
+        "precio": 400,
+        "imagen": "img/tablet1.webp",
+        "categoria": "Tablet"
+    },
+    {
+        "id": 12,
+        "nombre": "Tablet 2",
+        "descripcion": "La segunda mejor tablet",
+        "precio": 450,
+        "imagen": "img/tablet2.webp",
+        "categoria": "Tablet"
+    },
+    {
+        "id": 13,
+        "nombre": "Tablet 3",
+        "descripcion": "Otra tablet muy buena",
+        "precio": 650,
+        "imagen": "img/tablet3.webp",
+        "categoria": "Tablet"
+    },
+    {
+        "id": 14,
+        "nombre": "TCL 40 NXT",
+        "descripcion": "Bueno no tan conocido",
+        "precio": 500,
+        "imagen": "img/TCL40NXT.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 15,
+        "nombre": "Celu Xiaomi Redmi 12C",
+        "descripcion": "El mejor celular",
+        "precio": 600,
+        "imagen": "img/XiaomiRedmi12C.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 16,
+        "nombre": "Celular Xiaomi Redmi Note 13",
+        "descripcion": "El mejor celular",
+        "precio": 700,
+        "imagen": "img/XiaomiRedmiNote13.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 17,
+        "nombre": "Celular ZTE A 53",
+        "descripcion": "El mejor celular",
+        "precio": 800,
+        "imagen": "img/ZTEBlaceA53.webp",
+        "categoria": "Celular"
+    },
+    {
+        "id": 18,
+        "nombre": "Celular ZTE A 33",
+        "descripcion": "El mejor celular",
+        "precio": 1000,
+        "imagen": "img/ZTEBladeA33.webp",
+        "categoria": "Celular"
+    }    
+]
